@@ -1,4 +1,4 @@
-### Olá! Sou o Gabriel côgo!]
+### Olá! Sou o Gabriel côgo!
 
 - 🔭 Atualmente trabalho com PhP / Laravel como Full-Stack Junior
 - 🌱 Estou estudando e me aprofundando na minha area Atrvés da Faculdade e cursos da Alura
