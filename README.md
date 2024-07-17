@@ -1,6 +1,6 @@
 ### Olá! Sou o Gabriel côgo!
 
-- 🔭 Atualmente trabalho com PhP / Laravel como Full-Stack Junior
+- 🔭 Atualmente trabalho com PhP / Laravel como Full-Stack Pleno
 - 🌱 Estou estudando e me aprofundando na minha area através da Faculdade e cursos da Alura
 - 😄 Pronouns: Ele / Dele
 
